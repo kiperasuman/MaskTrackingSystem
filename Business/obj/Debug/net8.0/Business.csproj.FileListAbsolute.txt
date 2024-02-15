@@ -1,0 +1,15 @@
+D:\DotNetCoreProjects\Assignments\Business\bin\Debug\net8.0\Business.deps.json
+D:\DotNetCoreProjects\Assignments\Business\bin\Debug\net8.0\Business.dll
+D:\DotNetCoreProjects\Assignments\Business\bin\Debug\net8.0\Business.pdb
+D:\DotNetCoreProjects\Assignments\Business\bin\Debug\net8.0\Entities.dll
+D:\DotNetCoreProjects\Assignments\Business\bin\Debug\net8.0\Entities.pdb
+D:\DotNetCoreProjects\Assignments\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+D:\DotNetCoreProjects\Assignments\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCoreProjects\Assignments\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+D:\DotNetCoreProjects\Assignments\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+D:\DotNetCoreProjects\Assignments\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+D:\DotNetCoreProjects\Assignments\Business\obj\Debug\net8.0\Business.csproj.CopyComplete
+D:\DotNetCoreProjects\Assignments\Business\obj\Debug\net8.0\Business.dll
+D:\DotNetCoreProjects\Assignments\Business\obj\Debug\net8.0\refint\Business.dll
+D:\DotNetCoreProjects\Assignments\Business\obj\Debug\net8.0\Business.pdb
+D:\DotNetCoreProjects\Assignments\Business\obj\Debug\net8.0\ref\Business.dll
